@@ -2,5 +2,5 @@
 
 Team 4 Submissions
 
-Professor : Sri Krisnamurthy
+Professor : Sri Krishnamurthy
 
