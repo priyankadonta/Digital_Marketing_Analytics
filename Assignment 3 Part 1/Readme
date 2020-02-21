@@ -1,1 +1,29 @@
 
+INFO7374-DigitalMarketingAnalytics
+
+
+
+###Questions
+1.How is sales related to week numbers?
+2. How does TV spending affect sales? Can you quantify it?
+3. Are there any adstock effects for TV ad spending?
+4. How does Radio spending affect sales? Can you quantify it?
+5. Are there any adstock effects for radio ad spending?
+
+
+### Deliverables
+How to work with csv files
+We have converted the week numbers into groups such as for 1-26 we have given GROUP 1 and 27-52 for GROUP 2.
+We did this by creating buckets by adding new recipes.
+
+
+Analytics Dashboard using Salesforce Einstein Analytics
+
+We have created interactive dashoard to answer the above questions.
+
+
+A Google Codelabs document summarizing the insights
+https://codelabs-preview.appspot.com/?file_id=1D8vEHQEFMdHHoFYmRpXvlxET8SSqFXslwXMB-VoI_74#0
+
+Google doc link
+https://docs.google.com/document/d/1D8vEHQEFMdHHoFYmRpXvlxET8SSqFXslwXMB-VoI_74/edit?usp=sharing
