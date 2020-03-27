@@ -1,0 +1,39 @@
+# Recommendation systems
+    1. Collaboarative filtering
+    2. Content based Filtering
+    
+FastAI Embedding Dot Bias(Collaboarative filtering):
+
+  An embedding is a mapping from discrete objects, such as words or ids to a vector of continuous values. 
+  This can be used to find similarities between the discrete objects that wouldn't be apparent to the model 
+  if it didn't use embedding layers. These embedding vectors are low-dimensional and get updated whilst training the network.
+  
+ #Deliverables:
+     There are 4 stages which we had to work on:
+     1.Quick Start
+     2.Data Preparation
+     3.Fastai Model
+     4.Evaluation
+     We have selected "Snakdataset" in which we have million of rows and we have selected 100o rows for our evaluation and we 
+     tried to know how is the model works and we should recommende this model.
+     there are 3 columns here USerID,SnakID and Rating provided by the customers.
+     
+      Data Preparation consists of various splitting techniques such as Radom data split, Multi split, chronological split
+      and stratifies split , we explored all these techniques in our data preparation.
+      
+      Fastai model:
+      N_Factos and Epoch here N_factors is nothign but emebedded vector size and eopch is rating range for our data 
+      it is from 1-5 so we have chosen 5 .
+      
+      Evaluation:
+        Precision - this measures the proportion of recommended items that are relevant
+        Recall - this measures the proportion of relevant items that are recommended
+        Normalized Discounted Cumulative Gain (NDCG) - evaluates how well the predicted items for a user are ranked based on relevance
+        Mean Average Precision (MAP) - average precision for each user normalized over all users
+      
+    ## Google drive doc link:
+    https://docs.google.com/document/d/15hPLgbBiE5WnQPVv6CPjbVRD3gLV4nC6o_GAXXY4Khg/edit#heading=h.f6bjf49377ts
+    
+    ##Google claat Link:
+    https://codelabs-preview.appspot.com/?file_id=15hPLgbBiE5WnQPVv6CPjbVRD3gLV4nC6o_GAXXY4Khg#0
+    
