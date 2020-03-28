@@ -31,9 +31,6 @@ FastAI Embedding Dot Bias(Collaboarative filtering):
         Normalized Discounted Cumulative Gain (NDCG) - evaluates how well the predicted items for a user are ranked based on relevance
         Mean Average Precision (MAP) - average precision for each user normalized over all users
       
-    ## Google drive doc link:
-    https://docs.google.com/document/d/15hPLgbBiE5WnQPVv6CPjbVRD3gLV4nC6o_GAXXY4Khg/edit#heading=h.f6bjf49377ts
+   
     
-    ##Google claat Link:
-    https://codelabs-preview.appspot.com/?file_id=15hPLgbBiE5WnQPVv6CPjbVRD3gLV4nC6o_GAXXY4Khg#0
-    
+   
