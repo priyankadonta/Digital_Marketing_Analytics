@@ -13,6 +13,4 @@ We were asked to work on FastAI Embedding Dot Bias(FAST).
 
 ### Google doc link
 https://docs.google.com/document/d/15hPLgbBiE5WnQPVv6CPjbVRD3gLV4nC6o_GAXXY4Khg/edit?usp=sharing
-### Google claat link
-https://codelabs-preview.appspot.com/?file_id=15hPLgbBiE5WnQPVv6CPjbVRD3gLV4nC6o_GAXXY4Khg#4
 
