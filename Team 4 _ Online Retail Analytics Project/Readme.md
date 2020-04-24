@@ -2,6 +2,9 @@
 
 
 ### Online Retail Analytics 
+
+webapp: https://tkmaxx.herokuapp.com/
+
 ## Customer Segmentation
 
 Why: As every customer is unique and can be targeted in different ways. The Customer segmentation plays an important role in this case.
@@ -9,9 +12,15 @@ Why: As every customer is unique and can be targeted in different ways. The Cust
 How: So we have created the customer segmentation as Low, Mid and High clusers based on the overall value of how recent the customer is, what is the frequency and how much revenue is earned from the particular customer.
 This is calculated by using RFM model.
 
+## Cross Selling
+
+Why: Cross selling is the process of recommending customers to buy related or complementary items to the items already have bought. It has applications in areas such ecommerce, product placement, fraud detection etc.
+
+How: Using Market Basket Analysis, we can identify items which are frequently bought together from a list of transactions. We used FP growth alrorithm for  extracting frequent itemsets.
+
 ## Customer Lifetime Value
 
-Why: In the current e-commerce world, almost every other retailer promotes its subscription and this is further used to understand the customer lifetime.  
+Why: In the current world, almost every other retailer promotes its subscription and this is further used to understand the customer lifetime.  
 
 How: In the project, we have used XGBClassifier model to predict the customer lifetime cluster which is categorized as LowCLV, MidCLV and HighCLV.
 
