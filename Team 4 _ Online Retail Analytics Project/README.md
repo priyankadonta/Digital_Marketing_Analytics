@@ -5,6 +5,8 @@
 
 webapp: https://tkmaxx.herokuapp.com/
 
+Project Final Document: https://docs.google.com/document/d/1jf4OKJ9X-Iot08j9lNOgUb6IBWwkj8ydd0Nxym1KV9c/edit?usp=sharing
+
 ## Customer Segmentation
 
 Why: As every customer is unique and can be targeted in different ways. The Customer segmentation plays an important role in this case.
