@@ -7,6 +7,7 @@ This is a Women’s Clothing E-Commerce dataset revolving around the reviews wri
 
 ### Part 1: 
 Performed Exploratory data analysis(EDA) using Pandas, Pandas Profiling , Trifacta Wrangler and XSV
+
 Created wordcloud using nltk and textblob package 
 
 ### Part2:
