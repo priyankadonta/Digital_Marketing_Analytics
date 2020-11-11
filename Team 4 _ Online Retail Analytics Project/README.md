@@ -18,7 +18,7 @@ This is calculated by using RFM model.
 
 Why: Cross selling is the process of recommending customers to buy related or complementary items to the items already have bought. It has applications in areas such ecommerce, product placement, fraud detection etc.
 
-How: Using Market Basket Analysis, we can identify items which are frequently bought together from a list of transactions. We used FP growth alrorithm for  extracting frequent itemsets.
+How: Using Market Basket Analysis, we can identify items which are frequently bought together from a list of transactions. We used FP growth algorithm for  extracting frequent itemsets.
 
 ## Customer Lifetime Value
 
